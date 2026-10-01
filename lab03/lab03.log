@@ -1,0 +1,18 @@
+Thu Oct  1 15:10:02 UTC 2026: Count: 1
+Thu Oct  1 15:10:02 UTC 2026: Count: 2
+Thu Oct  1 15:10:02 UTC 2026: Count: 3
+Thu Oct  1 15:10:02 UTC 2026: found the third item
+Thu Oct  1 15:10:02 UTC 2026: Count: 4
+Thu Oct  1 15:10:02 UTC 2026: Count: 5
+Thu Oct  1 15:10:02 UTC 2026: You passed in 15 to ./lab03_exercise2.sh
+Thu Oct  1 15:10:02 UTC 2026: There are 107 processes running on this machine
+Thu Oct  1 15:10:02 UTC 2026: Maximum number of processes exceeded
+Thu Oct  1 15:16:33 UTC 2026: Count: 1
+Thu Oct  1 15:16:33 UTC 2026: Count: 2
+Thu Oct  1 15:16:33 UTC 2026: Count: 3
+Thu Oct  1 15:16:33 UTC 2026: found the third item
+Thu Oct  1 15:16:33 UTC 2026: Count: 4
+Thu Oct  1 15:16:33 UTC 2026: Count: 5
+Thu Oct  1 15:16:33 UTC 2026: You passed in 15 to ./lab03_exercise3.sh
+Thu Oct  1 15:16:33 UTC 2026: There are 107 processes running on this machine
+Thu Oct  1 15:16:33 UTC 2026: Maximum number of processes exceeded
